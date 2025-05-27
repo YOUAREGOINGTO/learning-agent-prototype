@@ -1,4 +1,4 @@
-# AI Learning Agent (V2 & V3 with DSPy)
+AI Learning Agent (V2 & V3 with DSPy)
 
 A Python project for creating personalized AI-driven learning experiences, from syllabus negotiation to interactive tutoring, using Google Gemini. Version 3 leverages DSPy for advanced prompt management.
 
